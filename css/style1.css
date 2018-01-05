@@ -1,0 +1,131 @@
+.header, .navbar {
+	background: #1D1D1D !important;
+}
+
+.main-panel {
+	background: #FFFFFF !important;
+}
+
+h6{
+    padding-top: 5px;
+}
+.boxx {
+    width: 30px;
+    height: 80px;
+    background-color: transparent;
+    
+        
+}
+.control-label{
+     font-weight: 900;
+    
+}
+label{
+   text-align: left;
+}
+.right-inner-addon i {
+    position: absolute;
+   
+    right: -20px;
+    top: 8px;
+    pointer-events: none;
+    font-size: 1.5em;
+}
+.right-inner-addon {
+    position: relative;
+    
+}
+.wd {
+    height: 45px;
+}
+#bord{
+    width: 75px;
+    height: 75px;
+}
+.card1 {
+    
+    height: 80px;
+    padding: 7px;
+	background-color: transparent;
+	
+}
+
+.card2 {
+    height: 80px;
+	padding: 7px;
+	background: transparent;
+}
+
+.card3 {
+    height: 80px;
+	padding: 7px;
+	background: transparent;
+}
+
+.card4 {
+    height: 80px;
+	padding: 7px;
+	background-color: transparent;
+}
+
+.card5 {
+    height: 80px;
+	padding: 7px;
+	background-color: transparent;
+}
+
+.card6 {
+    height: 80px;
+	padding: 7px;
+	background-color: transparent;
+}
+
+.card7 {
+    height: 80px;
+	padding: 7px;
+	background: transparent;
+}
+
+.card8 {
+    height: 80px;
+	padding: 7px;
+	background: transparent;
+}
+
+.bg-light {
+	background: #eeeeee;
+}
+
+.btn-color {
+	background: #171717;
+}
+
+th {
+	padding: 5px !important;
+	text-align: center !important;
+}
+
+.pagination > .active > a {
+	background: #1D1D1D !important;
+}
+a:hover {
+	background: transparent !important;
+}
+
+a:active {
+	background: transparent !important;
+}
+
+a:focus {
+	background: transparent !important;
+}
+
+a:before {
+	background: transparent !important;
+}
+.main-content .perimetre{
+	position: relative;
+	background-color: #eeeeee;
+	padding: 27px;
+	margin-bottom: 30px
+}
